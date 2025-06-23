@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web related stuff**
 
-- 📫 How to reach me **varun2004varun2004@gmail.com**
+- 📫 How to reach me **varunpadala137@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
