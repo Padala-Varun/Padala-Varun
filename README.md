@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=padala-varun" alt="padala-varun" /></a> </p>
 
-- 🔭 I’m currently working on **Chat-App**
+- 🔭 I’m currently working on **Integrating AI in my Prescripto WebApp**
 
 - 🌱 I’m currently learning **MERN stack and Gen AI**
 
